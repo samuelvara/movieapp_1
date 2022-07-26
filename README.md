@@ -1,3 +1,7 @@
+# Check out https://bellav1.netlify.app/ for a live demonstration.
+
+This project is still in works. Lookout for further releases :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
